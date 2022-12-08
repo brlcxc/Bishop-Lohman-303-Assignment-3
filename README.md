@@ -12,5 +12,5 @@ Question 1 MoveToRear queue
   - If "m" is selected then the value at the front moves to the end and the queue is output
   - If "q" is selected the program quits
   
-<img src="![image](https://user-images.githubusercontent.com/90850429/206567250-d25fce1d-7a3a-42ec-b0b2-bdad346dc482.png)" width="240" height="400"><br />
+<img src="https://user-images.githubusercontent.com/90850429/206567708-a60d96a5-2f36-4f70-b7ce-d0c07b9307b1.png" width="240" height="400"><br />
 option 'c'<br />
