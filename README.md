@@ -1,6 +1,6 @@
 # Bishop-Lohman-303-Assignment-3
 
-Question 1 MoveToRear queue
+Question 1 MoveToRear Queue
 
 - MoveToYear(queue<int>& currentQueue)
   - The value at the front of the queue is moved to the rear and the value behind it is moved to the front
@@ -34,4 +34,10 @@ Question 2 Palindrome Check
   
  <img src="https://user-images.githubusercontent.com/90850429/206574373-67378589-80b8-4aa8-a6a1-5fb098aa6899.png"><br />
 
+Question 4
+ 
+<img src="https://user-images.githubusercontent.com/90850429/206576304-479bbb37-b4a5-4a40-9b85-386e1e6459fe.png"><br />
 
+Question 5 Map
+ 
+<img src="https://user-images.githubusercontent.com/90850429/206577197-08dcadf6-733c-4568-aa60-0b530ebae2c5.png"><br />
