@@ -27,4 +27,11 @@ Question 2 Palindrome Check
     - The user is told wether or not the input is a palindrome
     - The user is asked if they want to continue
       - If the user presses "q" the program ends
+  
  <img src="https://user-images.githubusercontent.com/90850429/206572007-c15f7b05-a81c-42da-a343-692327d77ff5.png"><br />
+  
+  Question 3
+  
+ <img src="https://user-images.githubusercontent.com/90850429/206574373-67378589-80b8-4aa8-a6a1-5fb098aa6899.png"><br />
+
+
