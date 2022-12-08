@@ -13,4 +13,3 @@ Question 1 MoveToRear queue
   - If "q" is selected the program quits
   
 <img src="https://user-images.githubusercontent.com/90850429/206567708-a60d96a5-2f36-4f70-b7ce-d0c07b9307b1.png"><br />
-option 'c'<br />
