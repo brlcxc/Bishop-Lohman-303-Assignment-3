@@ -40,4 +40,4 @@ Question 4
 
 Question 5 Map
  
-<img src="https://user-images.githubusercontent.com/90850429/206577197-08dcadf6-733c-4568-aa60-0b530ebae2c5.png"><br />
+<img src="https://user-images.githubusercontent.com/90850429/206577197-08dcadf6-733c-4568-aa60-0b530ebae2c5.png" width="240" height="400"><br />
