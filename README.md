@@ -44,4 +44,6 @@ Question 5 Map
   
 - The map is output
 - The map with the updated value is output
-- 
+- The user is asked to press "c" if they want to find a capital associated with a state
+  - if a valid state is entered then capital is output
+  - if not then an error is output
